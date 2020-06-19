@@ -1,2 +1,3 @@
 # portfolio_2
-Design 2 for portfolio/coaching websites
+Design for portfolio/coaching websites
+### website fully designed on HTML/CSS from scratch
